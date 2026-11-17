@@ -1,4 +1,3 @@
 # ProjetoPOOFinal
 
-José Pedro:
-*Usei o Claude como apoio para revisar o código das minhas classes, tirar dúvidas de exceções e do UML para corrigir erros*
+*Usamos o Claude como apoio para revisar o código das classes, tirar dúvidas de exceções e principalmente no UML para corrigir erros tanto no código quanto no UML*
